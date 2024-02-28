@@ -1,5 +1,5 @@
 
-from simplecalculator import calculator
+from tanvircalculator import calculator
 
-result = calculator.multiply(5, 3)
+result = calculator.add(5, 3)
 print(result)  # Output: 8
